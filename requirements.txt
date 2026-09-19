@@ -1,2 +1,2 @@
-pdfplumber>=0.8.0
-pypdf>=3.0.0
+numpy>=1.21.0
+matplotlib>=3.5.0
